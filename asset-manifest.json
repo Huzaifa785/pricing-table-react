@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/pricing-table-react/static/css/main.b80ebeb1.chunk.css",
+    "main.js": "/pricing-table-react/static/js/main.971d347c.chunk.js",
+    "main.js.map": "/pricing-table-react/static/js/main.971d347c.chunk.js.map",
+    "runtime-main.js": "/pricing-table-react/static/js/runtime-main.61191b60.js",
+    "runtime-main.js.map": "/pricing-table-react/static/js/runtime-main.61191b60.js.map",
+    "static/js/2.581f8798.chunk.js": "/pricing-table-react/static/js/2.581f8798.chunk.js",
+    "static/js/2.581f8798.chunk.js.map": "/pricing-table-react/static/js/2.581f8798.chunk.js.map",
+    "index.html": "/pricing-table-react/index.html",
+    "static/css/main.b80ebeb1.chunk.css.map": "/pricing-table-react/static/css/main.b80ebeb1.chunk.css.map",
+    "static/js/2.581f8798.chunk.js.LICENSE.txt": "/pricing-table-react/static/js/2.581f8798.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61191b60.js",
+    "static/js/2.581f8798.chunk.js",
+    "static/css/main.b80ebeb1.chunk.css",
+    "static/js/main.971d347c.chunk.js"
+  ]
+}
